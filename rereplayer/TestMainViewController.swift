@@ -7,7 +7,7 @@
 
 import Foundation
 import UIKit
-
+//test
 class TestMainViewController: UIViewController{
     var paramRate: String? // 값을 전달받을 속성
     
